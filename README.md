@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yukai901012
+- 👋 Hi, I’m @kaivin
 - 👀 I’m interested in C python
 - 🌱 I’m currently learnin c python
 - 💞️ I’m looking to collaborate on ...
